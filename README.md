@@ -1,4 +1,4 @@
-### Welcome on my GitHub!👋 
+### Welcome on Josef's GitHub!👋 
 #### Former international development consultant turned data science and machine learning enthusiast with a passion for sustainable development. 
 #### 💡 I'm very interested in data driven international development cooperation
 #### 🔭 Currently working on improving my GCP skills and want to further explore Deep Learning
